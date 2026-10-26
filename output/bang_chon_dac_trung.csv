@@ -1,0 +1,13 @@
+,Tương quan với nhãn,Permutation importance,Δ F1 khi bỏ,Đề xuất
+alcohol,0.4954,0.1274,-0.0002,giữ
+volatile acidity,-0.2551,0.0458,-0.0036,giữ
+chlorides,-0.3129,0.0317,-0.0025,giữ
+free sulfur dioxide,0.0772,0.0289,-0.0063,giữ
+density,-0.3549,0.0253,0.0079,giữ
+total sulfur dioxide,-0.0724,0.0214,-0.0068,giữ
+citric acid,0.1036,0.0171,-0.0005,giữ
+pH,0.0564,0.0162,-0.0056,giữ
+sulphates,0.0253,0.0157,-0.0054,giữ
+residual sugar,-0.034,0.0089,0.0036,xem xét loại
+fixed acidity,-0.0998,0.0008,0.0022,xem xét loại
+wine_type,0.1238,0.0005,0.0005,xem xét loại
