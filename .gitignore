@@ -1,0 +1,15 @@
+# Chặn các file chạy ngầm và bộ nhớ đệm của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Chặn file rác tự sinh của Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Chặn file rác của hệ điều hành (Windows/Mac)
+.DS_Store
+Thumbs.db
+
+# Chặn thư mục cấu hình ẩn của công cụ Kombai nếu có trong máy bạn
+.kombai/
