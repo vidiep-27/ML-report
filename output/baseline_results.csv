@@ -1,0 +1,4 @@
+model,accuracy_mean,accuracy_std,balanced_accuracy_mean,balanced_accuracy_std,f1_macro_mean,f1_macro_std,f1_weighted_mean,f1_weighted_std
+Dummy (most_frequent),0.4366,0.0005,0.3333,0.0,0.2026,0.0002,0.2653,0.0005
+Dummy (stratified),0.3614,0.0179,0.3241,0.0194,0.3236,0.0198,0.359,0.0182
+Logistic Regression,0.5841,0.0065,0.5369,0.0071,0.5474,0.0085,0.5768,0.0066
