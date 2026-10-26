@@ -1,0 +1,23 @@
+{
+  "random_state": 42,
+  "test_size": 0.2,
+  "n_splits": 5,
+  "features": [
+    "alcohol",
+    "density",
+    "volatile acidity",
+    "chlorides",
+    "total sulfur dioxide",
+    "citric acid",
+    "residual sugar",
+    "wine_type_white",
+    "sulphates"
+  ],
+  "target": "label",
+  "class_names": [
+    "Thấp",
+    "Trung bình",
+    "Cao"
+  ],
+  "main_metric": "f1_macro"
+}
